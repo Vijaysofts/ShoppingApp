@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471593319313",
+    "project_id": "shoppingapp-cdcea",
+    "storage_bucket": "shoppingapp-cdcea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471593319313:android:abce547d86fb9f3bf77830",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471593319313-tsnv8o61f5fgp9fhigoh30f1q4uv9n2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo",
+            "certificate_hash": "1714b9b034ff6d75b591f4b671302a1befe1998c"
+          }
+        },
+        {
+          "client_id": "471593319313-k81dt45qv10vi7i4g53et7br6q9fbilq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuFB9x7Yjh-PTgXxjyiNHx8pfTt_Qv2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471593319313-k81dt45qv10vi7i4g53et7br6q9fbilq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
